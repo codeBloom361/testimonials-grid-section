@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonials-section-using-css-grid-htCAmBOUdS](https://www.frontendmentor.io/solutions/responsive-testimonials-section-using-css-grid-htCAmBOUdS)
 - Live Site URL: [https://codebloom361.github.io/testimonials-grid-section/](https://codebloom361.github.io/testimonials-grid-section/)
 
 ## My process
